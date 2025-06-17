@@ -37,11 +37,11 @@ A tela final entrega uma interface limpa, elegante e funcional, com ênfase na i
 
 ## Desenvolvido por
 
-Vinícius Goulart Alves - RM564616 
-Projeto de Fintech - WealthCheck (Fase 4)  
-Curso: Análise e Desenvolvimento de Sistemas  
-Instituição: FIAP
-
+**Vinícius Goulart Alves**  
+**RM564616**  
+Projeto de Fintech - **WealthCheck (Fase 4)**  
+Curso: **Análise e Desenvolvimento de Sistemas**  
+Instituição: **FIAP**
 
 
 
