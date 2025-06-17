@@ -10,8 +10,39 @@
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
 </head>
 
-<body>
-
+<body class="login-body">
+    <div class="container login-container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-lg-5">
+                <div class="card login-card">
+                    <div class="text-center mb-4">
+                        <img src="Images/logo-placeholder.png" alt="Logo WealthCheck" class="login-logo" />
+                        <h2 class="text-primary fw-bold">WealthCheck</h2>
+                        <p class="text-muted">Controle seu futuro financeiro</p>
+                    </div>
+                    <form>
+                        <div class="mb-3">
+                            <label for="email" class="form-label">E-mail</label>
+                            <input type="email" class="form-control" id="email" placeholder="seu@email.com" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="senha" class="form-label">Senha</label>
+                            <input type="password" class="form-control" id="senha" placeholder="********" required />
+                        </div>
+                        <div class="d-grid gap-2">
+                            <button type="submit" class="btn btn-gold">Entrar</button>
+                        </div>
+                        <div class="text-center mt-3">
+                            <a href="#" class="text-decoration-none small text-muted">Esqueceu sua senha?</a>
+                        </div>
+                    </form>
+                </div>
+                <div class="text-center mt-3 small text-muted">
+                    © 2025 WealthCheck
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
