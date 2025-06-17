@@ -8,6 +8,15 @@ body.login-body {
     justify-content: center;
 }
 
+.login-logo {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.75rem;
+}
+
 .login-container {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -17,13 +26,8 @@ body.login-body {
     background-color: #ffffff;
     border: none;
     border-radius: 1.25rem;
-    padding: 2rem;
+    padding: 1.25rem 2rem 2rem 2rem;
     box-shadow: 0 0 40px rgba(0, 0, 0, 0.15);
-}
-
-.login-logo {
-    max-height: 60px;
-    margin-bottom: 1rem;
 }
 
 .btn-gold {
